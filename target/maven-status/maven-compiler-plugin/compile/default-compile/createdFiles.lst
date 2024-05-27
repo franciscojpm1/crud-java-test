@@ -1,0 +1,10 @@
+com\example\crud_test\repository\DepartmentRepository.class
+com\example\crud_test\controller\EmployeeController.class
+com\example\crud_test\CrudTestApplication.class
+com\example\crud_test\CrudTestApplication$Myconfiguration$1.class
+com\example\crud_test\ServletInitializer.class
+com\example\crud_test\model\Employee.class
+com\example\crud_test\model\Department.class
+com\example\crud_test\service\EmployeeService.class
+com\example\crud_test\CrudTestApplication$Myconfiguration.class
+com\example\crud_test\repository\EmployeeRepository.class
